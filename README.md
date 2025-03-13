@@ -1,2 +1,4 @@
 # Ecommerce-Data-Insights
-This project focuses on analyzing an E-commerce dataset using MySQL for data processing and Tableau for data visualization.
+##E-commerce Sales Analysis Using MySQL & Tableau
+
+This project analyzes e-commerce product data using MySQL for data storage and Tableau for visualization.
