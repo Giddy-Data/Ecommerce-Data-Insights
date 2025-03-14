@@ -1,0 +1,17 @@
+# Ignore dataset files (if you don’t want CSVs in Git)
+*.csv
+*.xlsx
+*.json
+
+# Ignore MySQL database dumps (if you don’t want large SQL files in Git)
+*.sql
+
+# Ignore Tableau temporary files
+*.hyper
+*.twb
+*.twbx
+
+# Ignore logs and cache
+*.log
+.DS_Store  # MacOS system file (ignore if on Windows)
+
