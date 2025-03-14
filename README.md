@@ -13,8 +13,8 @@ This project focuses on analyzing e-commerce sales data using MySQL for data pro
    ✔ What is the revenue for orders with and without discounts?
 #### Dataset Description:
    •	Total Records: (100 rows)
-   •	Columns: ProductID, ProductName, Category, Price, Rating, Numreveiws, StockQuanitity,Discount, Sales, DateAdded, City
-   •	Source:from Kaggle o
+   •	Columns: ProductID, ProductName, Category, Price, Rating, Numreveiws, StockQuanitity,Discount, Sales, DateAdded, City.
+
 
 #### SQL Queries:
    Total Revenue
