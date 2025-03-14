@@ -16,7 +16,7 @@ This project focuses on analyzing e-commerce sales data using MySQL for data pro
    •	Columns: ProductID, ProductName, Category, Price, Rating, Numreveiws, StockQuanitity,Discount, Sales, DateAdded, City
    •	Source:from Kaggle o
 
-## SQL Queries Used (Stored in /sql folder):
+## SQL Queries:
    Total Revenue
   ✅ What is the total revenue per month?
   ✅ What is the total revenue by category?
@@ -29,6 +29,7 @@ This project focuses on analyzing e-commerce sales data using MySQL for data pro
   ✅ How much profit was lost due to discounts?
   ✅ What is the revenue for orders with and without discounts?
   ✅ Do higher discounts lead to more sales?
+  SQL link:(https://github.com/Giddy-Data/Ecommerce-Data-Insights/blob/main/sql/ecommerce_queries.sql)
 
 ### Tableau Dashboard:
 •	Insights found: (Sale Trend Chart, Discount Trends Over Time, Top 5 Selling Product, Category Revenue Contribution and category as filters)
