@@ -33,6 +33,5 @@ This project focuses on analyzing e-commerce sales data using MySQL for data pro
 
 #### Tableau Dashboard:
 •	Insights found: (Sale Trend Chart, Discount Trends Over Time, Top 5 Selling Product, Category Revenue Contribution and category as filters)
-•	Dashboard Screenshot:(https://github.com/Giddy-Data/Ecommerce-Data-Insights/blob/main/visuals/ecommerce_dashboard.png)
-
+•	Dashboard Screenshot:
 
